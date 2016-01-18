@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">CustomListViewSimpleArrayAdapter</string>
+<string name="action_settings">Settings</string>
+<string-array name="sports_array">
+    <item>Shuttle Badminton</item>
+    <item>Tennis</item>
+    <item>FootBall</item>
+    <item>Basket Ball</item>
+    <item>Table Tennis</item>
+    <item>Chess</item>
+    <item>Hockey</item>
+    <item>Baseball</item>
+    <item>Volley</item>
+    <item>Pool</item>
+</string-array>
+
+    <string-array name="random_imgs">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+        <item>@drawable/image4</item>
+        <item>@drawable/image5</item>
+        <item>@drawable/image6</item>
+        <item>@drawable/image7</item>
+        <item>@drawable/image8</item>
+        <item>@drawable/image9</item>
+        <item>@drawable/image10</item>
+
+
+    </string-array>
+</resources>
+
+
